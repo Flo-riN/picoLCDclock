@@ -23,7 +23,7 @@
 
 /*
 	8bit interface LCD display Copyright (c) 2021, zadi15 (https://github.com/zadi15/)
-=*/
+*/
 
 
 int LCDpins[14] = {0,1,2,3,4,5,6,7,15,16,17,16,2};
@@ -38,7 +38,7 @@ int main(){
 	
 	// TODO : compare internal RTC clock with RTC setup
 
-    /* Setting the time and dte and displaying:
+    /* Setting the time and date and displaying:
 	
 	 |    14:00:00	 |
 	 |Wed 17 Mar 2021|
