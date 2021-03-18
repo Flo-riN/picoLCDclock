@@ -38,11 +38,12 @@ int main(){
 	
 	// TODO : compare internal RTC clock with RTC setup
 
-    // Setting time and displaying:
-	//
-	//		  14:00:00 
-	//		We 17 Ma 2021
-    //
+    /* Setting the time and dte and displaying:
+	
+	 |    14:00:00	 |
+	 |Wed 17 Mar 2021|
+	 
+    */
 	
      datetime_t t = {
             .hour  = 14,
